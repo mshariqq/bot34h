@@ -16,7 +16,7 @@ Author: Md Shariq Ahmed
 
 
 GitHub Link: 
-Forum Link: 
+Forum Link: https://www.shariqq.com/community/php-softwares/bot34h-bot-cmd/
 
 
 This project also has an addon bot called bot65h, which can replicate SQL files.
