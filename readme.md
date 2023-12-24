@@ -6,8 +6,10 @@ So, it does this job "A human can take 1 or 2 weeks to replicate a project by re
 Inspiration: to keep coding halaal and clean, instead of copying and using existing projects, we can create our new project with our file checksum and properties in our machine.
 
 
-
-### To Run: To run this bot, PHP must be installed, the existing project should be pasted into the SRC folder, and then run the command "php bot34h.php", the new project will be written in the NEW_CREATION folder.
+### To Run
+Step 1: To run this bot, PHP must be installed, Create 2 folders in this project (SRC, NEW_CREATION if doesnt exist)
+Step 2: The existing project should be pasted into the SRC folder
+Step 3: Then run the command "php bot34h.php" in this project, the new project will be written in the NEW_CREATION folder.
 
 License: MIT
 Author: Md Shariq Ahmed
