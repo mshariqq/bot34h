@@ -23,3 +23,5 @@ This project also has an addon bot called bot65h, which can replicate SQL files.
 Same as bot34h. 
 
 
+
+Built by [SHA REEQ](https://mshariqq.github.io/) - M Shariq Ahmed (mshariqq), Web Developer in Hyderabad.
